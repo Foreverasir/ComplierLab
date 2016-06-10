@@ -1,0 +1,1 @@
+void translateMain(Node *head);
